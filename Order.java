@@ -1,5 +1,5 @@
 /*
-Wrte a java program to display billing details containing information like customer id, product number, product name, quantity, and its cost. Calculate and display total amount with 10% GST on the cost. Create a class "Product" to declare the class variables and methods such as getdata(), calculategst() and display(). Create a main class of "Order".
+Write a java program to display billing details containing information like customer id, product number, product name, quantity, and its cost. Calculate and display total amount with 10% GST on the cost. Create a class "Product" to declare the class variables and methods such as getdata(), calculate_gst() and display(). Create a main class of "Order".
 */
 
 import java.util.Scanner;
